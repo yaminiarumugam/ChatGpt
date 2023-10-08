@@ -9,8 +9,7 @@ To create your own ChatGPT using HTML, CSS, and JavaScript, follow these step-by
      
       Remember, your ChatGPT is not yet ready to generate chats based on prompts. To make it functional, you need to pay attention to a crucial detail in the code.   
 Take a closer look, and you’ll notice that you have to paste an “OpenAI API key” into the API_KEY variable.
-To get your API key, visit the following URL: https://platform.openai.com/account/api-keys. Once there, log in to your account, and you will be able to generate a free API key. To understand other things in the code.
-I recommend watching the tutorial video, reading the code comments, and experimenting with the code.
+To get your API key, visit the following URL: https://platform.openai.com/account/api-keys. Once there, log in to your account, and you will be able to generate a free API key.
 
 
 
